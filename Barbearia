@@ -1,6 +1,6 @@
 header { 
      background: #BBBBBB;
- }
+vasco }
 /<html>
 /<text>
 let xBolinha = 300;
@@ -66,3 +66,29 @@ font-size:22px;
 font-weight: bold;
 margin: 10px 0 0 0;
 }
+<main>
+<form> <input>
+</form>
+</main>
+<form>
+<input type=”text”>
+</form>
+<form>
+<input type=”text”>
+</form>
+<form>
+<input type=”text”>
+</form>
+<form>
+<input type=”text”>
+</form>
+</form>
+<label for=”nomeesobrenome”>Nome e Sobrenome</label>
+
+<input type=”text” id=”nomeesobrenome”>
+
+<label for=”email”>Email</label>
+<input type=”text” id=”email”>
+<label for=”telefone”>Telefone</label>
+<input type=”text” id=”telefone”>
+<input type=”submit” value=”Enviar Formulário”>
